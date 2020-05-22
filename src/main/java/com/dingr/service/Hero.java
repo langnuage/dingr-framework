@@ -6,5 +6,6 @@ import com.yz.framework.annotation.Service;
 public class Hero {
 	
 	public String name = "dinigr";
+	public int age = 0;
 
 }
