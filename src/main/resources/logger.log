@@ -1,0 +1,81 @@
+2020-05-22 11:23:28 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
+2020-05-22 11:26:01 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
+2020-05-22 11:27:14 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
+2020-05-22 11:28:02 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
+2020-05-22 11:30:50 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
+2020-05-22 11:31:41 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
+2020-05-22 11:32:57 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
+2020-05-22 11:33:30 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
+2020-05-22 11:37:12 ClassUtil.java ERROR load class set failure
+java.lang.NullPointerException
+	at com.yz.framework.util.ClassUtil.getClassSet(ClassUtil.java:68)
+	at com.yz.framework.helper.ClassHepler.<clinit>(ClassHepler.java:17)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:398)
+	at com.yz.framework.util.ClassUtil.loadClass(ClassUtil.java:51)
+	at com.yz.framework.HelperLoader.init(HelperLoader.java:20)
+	at com.dingr.service.MainTest.main(MainTest.java:10)
