@@ -34,7 +34,7 @@ public class ReflectionUtil {
 		}
 		return result;
 	}
-	
+	//注意这里field已经定义了是给哪个属性赋值，因此obj是指要赋值的属性的对象的引用
 	public static void setField(Object obj, Field field, Object value) {
 		try {
 			field.setAccessible(true);
